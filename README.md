@@ -1,47 +1,27 @@
-# DataWarehouse
-🔧4° Proyecto Acamica DataWarehouse
-
-Cuarto Proyecto de la carrera Desarrollo Web Full Stack en Acamica.
-
-⚙️ Procedimiento :
-
-## 1 - Instalación 🔩
+//1 - Instalación 
 
 Clonar proyecto desde la consola :
 
-⌨️ git clone https://github.com/Daiana671/Sprint-4
+(en consola) - git clone https://github.com/Daiana671/Sprint-4
 
-## 2 - Instalación de dependencias 🔩
+//2 - Instalación de dependencias 
 
-⌨️ npm install
+(en consola) - npm install
 
-## 3 - Crear base de datos 🔩
-
+//3 - Crear base de datos 
 
 Importar el Archivo data_warehouse.sql desde el panel de Administracion
 Recuerde Editar el archivo configuracion/configuracion.js con los datos de su entorno.
 
-## 4 - Iniciar el servidor 🔩
+//4 - Iniciar el servidor 
 
 Abrir el archivo servidor.js desde VisualStudio y ejecutar en terminal :
 
-⌨️ nodemon servidor.js
+(en consola) - nodemon servidor.js
 
-## 5 - Ya podes Utitlizar el Sistema ! 🔩
+Ya podes Utitlizar el Sistema ! 
 
-
-📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌
-
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-## 6 - Podes ver Algunos endpoint para Postman desde el siguiente link:
-https://github.com/Leandrouno/delilah_resto/blob/main/Delilah.postman_collection.json
-
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-
-📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌
-
-## 7 Ingreso al Sitio
+//6 - Ingreso al Sitio
 
 Para Ingresar Con Usuario Normal:
 
@@ -51,11 +31,7 @@ Administrador :
 
 Usuario: Leandrouno , Contraseña :123
 
-📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌
-
-
-
-## 8 ENDPOINT
+//7 - ENDPOINT
 
 localhost:3001/v1
 
